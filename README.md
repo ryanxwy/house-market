@@ -1,8 +1,8 @@
 # A house-marketplace where people can sale or rent houses after sign-in or sign-up
 
 ## Features
-### using Firebase as backend, providing data management(Firestore) & authentication(Google Auth API)
-### mobile-first Design but also compatible with desktop
+1. using Firebase as backend, providing data management(Firestore) & authentication(Google Auth API)
+2. mobile-first Design but also compatible with desktop
 
 ## Layout
 ### Explore page
