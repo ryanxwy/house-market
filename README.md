@@ -1,5 +1,5 @@
 # A house-marketplace where people can sale or rent houses after sign-in or sign-up
-# please enter 'house-market-wyx.vercel.app' to see the details
+# please enter https://house-market-wyx.vercel.app/ to see the details
 
 ## Features
 1. using Firebase as backend, providing data management(Firestore) & authentication(Google Auth API)
